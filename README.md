@@ -9,8 +9,9 @@
 - 지역별 상업용 부동산 임대료
 - 서울 시민생활 데이터
 - 서울 생활이동 데이터
-    > 생활이동 데이터는 깃허브에 올릴수 없는 용량이어서 구글 드라이브 링크 공유로 대체\n
-    > https://drive.google.com/drive/folders/13RSHnZT1-ahySvJ6NHB4A8xUDHG89X36?usp=sharing
+    > 생활이동 데이터는 깃허브에 올릴수 없는 용량이어서 구글 드라이브 링크 공유로 대체
+    
+    >     https://drive.google.com/drive/folders/13RSHnZT1-ahySvJ6NHB4A8xUDHG89X36?usp=sharing
 ## **주요 분석 내용**
 - 구로구와 강남구 IT업체 종사자
 - 해당 지역에 출근하는 사람들의 거주지
